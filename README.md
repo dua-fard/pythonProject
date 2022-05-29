@@ -1,1 +1,1 @@
-# pythonProject sqlite/pyqy5
+# pythonProject creating a phonebbok project using sqlite database/pyqy5
