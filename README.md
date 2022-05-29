@@ -1,1 +1,1 @@
-# creating a phonebbok project using sqlite database and pyqy5 for interface
+# creating a phonebook project using sqlite for database and pyqy5 for interface
