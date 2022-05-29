@@ -1,0 +1,1 @@
+# pythonProject sqlite/pyqy5
